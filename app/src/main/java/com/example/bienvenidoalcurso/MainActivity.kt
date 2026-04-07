@@ -65,7 +65,7 @@ fun BusinessCard(modifier: Modifier = Modifier) {
                         .background(Color(0xFF006622)) // Fondo del logo
                 )
                 Text(
-                    text = "Diego Llanos Garcia",
+                    text = "Ariana Pauca Leon",
                     fontSize = 40.sp,
                     fontWeight = FontWeight.Bold,
                     color = Color.Black,
