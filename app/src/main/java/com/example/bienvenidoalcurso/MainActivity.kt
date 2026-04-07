@@ -94,7 +94,7 @@ fun BusinessCard(modifier: Modifier = Modifier) {
                 )
                 ContactRow(
                     icon = painterResource(id = R.drawable.ic_email),
-                    text = "llanosgarciadiego@gmail.com"
+                    text = "arianapauca@gmail.com"
                 )
             }
         }
